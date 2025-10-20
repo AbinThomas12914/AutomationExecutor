@@ -1,3 +1,4 @@
+
 class SearchLocationPage {
   // Element identifiers as constants
   LEAVING_FROM_INPUT = "//android.widget.EditText[@resource-id='SearchLocationInput']";
