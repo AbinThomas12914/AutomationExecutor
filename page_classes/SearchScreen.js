@@ -1,3 +1,4 @@
+
 class SearchScreen {
   // Element identifiers as CONSTANTS
   LEAVING_FROM_FIELD_XPATH = "//*[@resource-id='SearchLocation']";
