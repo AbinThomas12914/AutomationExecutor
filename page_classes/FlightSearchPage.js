@@ -1,3 +1,4 @@
+
 class FlightSearchPage {
   // Element identifiers as CONSTANTS
   LEAVING_FROM_BUTTON_ID = "Leaving from Button Cochin (COK-Cochin Intl.)";
