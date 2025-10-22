@@ -1,3 +1,4 @@
+
 class PopupPage {
   // Element identifiers as CONSTANTS
   CLOSE_BUTTON_ID = 'Close';
