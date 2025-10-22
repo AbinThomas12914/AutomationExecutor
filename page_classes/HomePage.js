@@ -1,3 +1,4 @@
+
 class HomePage {
   // Element identifiers as CONSTANTS
   async FLIGHTS_TAB() {
@@ -7,6 +8,11 @@ class HomePage {
 
   // Behaviors
   async goToFlightsTab() {
+    const flightsTab = await this.FLIGHTS_TAB();
+    await flightsTab.click();
+  }
+
+    async goToAirTab() {
     const flightsTab = await this.FLIGHTS_TAB();
     await flightsTab.click();
   }
