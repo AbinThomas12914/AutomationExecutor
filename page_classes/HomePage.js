@@ -1,3 +1,4 @@
+
 class HomePage {
   // Element identifiers as CONSTANTS
   async FLIGHTS_TAB() {
